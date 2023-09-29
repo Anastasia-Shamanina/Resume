@@ -45,7 +45,7 @@ Cоставить тестовую документацию, выполнить 
 
 - заведи баг-репорты в YouTrack.
 
-`API` `Android Studio` `эмулятор` `Apidoc` `Postman` `YouTrack`
+`API` `Android Studio` `эмулятор` `Apidoc` `Postman` `YouTrack` `JSON` `XML`
 
 ### **4.Основы баз данных**
 
